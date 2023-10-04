@@ -1,4 +1,4 @@
-# kathryn_test
+# kathryn_test 2
 Test repo for git / GitHub lesson 
 
 # Purpose

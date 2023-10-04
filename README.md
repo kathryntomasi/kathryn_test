@@ -1,4 +1,4 @@
-# kathryn_test
+# write a more informative title
 Test repo for git / GitHub lesson 
 
 # Purpose
